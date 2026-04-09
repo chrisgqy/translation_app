@@ -4,7 +4,6 @@
 
 PyLate is a lightweight desktop translation app that combines a clean developer-friendly backend with a polished dark-themed interface. It supports multiple languages and lets you quickly swap, reset, and translate text in just a few clicks.
 
----
 
 ## 🚀 Features
 
@@ -14,13 +13,11 @@ PyLate is a lightweight desktop translation app that combines a clean developer-
 * 🎨 Modern dark UI (Qt + QSS styling)
 * ⚡ Fast and simple — no bloat
 
----
 
 ## 🖼️ Preview
 
 *(Add a screenshot here if you want — it’ll look great in your repo)*
 
----
 
 ## 🛠️ Tech Stack
 
@@ -29,7 +26,6 @@ PyLate is a lightweight desktop translation app that combines a clean developer-
 * googletrans (translation API)
 * QSS (Qt styling)
 
----
 
 ## 📦 Installation
 
@@ -48,7 +44,7 @@ pip install PyQt5 googletrans==4.0.0-rc1
 
 > ⚠️ Note: `googletrans` is unofficial and can occasionally break. If it does, that’s not your fault 🙂
 
----
+
 
 ## ▶️ Running the App
 
@@ -58,7 +54,7 @@ python main.py
 
 That’s it — the app window should launch instantly.
 
----
+
 
 ## 🧠 How It Works
 
@@ -70,7 +66,6 @@ That’s it — the app window should launch instantly.
    * 🔄 Reverse → swap languages & text
    * 🧹 Reset → clear everything
 
----
 
 ## 📁 Project Structure
 
@@ -83,14 +78,10 @@ pylate/
 ```
 
 
----
-
 ## ⚠️ Known Limitations
 
 * `googletrans` is not an official API (can be unstable)
 * Async calls are handled simply (may block UI briefly)
-
----
 
 ## 💡 Future Ideas
 
@@ -100,7 +91,6 @@ pylate/
 * 🧵 Threaded async (non-blocking UI)
 * 🎨 Theme switching
 
----
 
 ## 📜 License
 
