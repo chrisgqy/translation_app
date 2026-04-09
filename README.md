@@ -16,7 +16,8 @@ PyLate is a lightweight desktop translation app that combines a clean developer-
 
 ## 🖼️ Preview
 
-*(Add a screenshot here if you want — it’ll look great in your repo)*
+<img width="899" height="625" alt="image" src="https://github.com/user-attachments/assets/5b7f4394-f5c0-4a89-88eb-cb24f7560605" />
+
 
 
 ## 🛠️ Tech Stack
